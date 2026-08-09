@@ -1,0 +1,54 @@
+Shiv Gupta
++91-6260598245 | shivgupta.cse14@outlook.com | linkedin.com/in/Shiv-Gupta-CS25 | github.com/Shivsgit25
+
+PROFESSIONAL SUMMARY
+Backend Developer with hands-on experience in enterprise-grade insurance systems at Cognizant. Proficient in Java,
+Spring Boot, and SQL, with a strong focus on debugging, data integrity, and distributed system workflows. AWS
+Certified Cloud Practitioner with the ability to quickly adapt and deliver in fast-paced, collaborative environments.
+
+TECHNICAL SKILLS
+• Languages: Java, SQL
+• Frameworks: Spring Boot, Angular
+• Databases: MySQL
+• Cloud & Tools: AWS (Certified), GitHub
+• Practices: Microservices Architecture, Agile/Scrum, Distributed Systems
+• Web Technologies: HTML, CSS, JavaScript
+
+PROFESSIONAL EXPERIENCE
+Cognizant Technology Solutions, Mumbai, India
+Programmer Analyst Trainee | Backend Developer June 2025 – Present
+
+Domain: Enterprise Insurance | Platform: eBao
+• Maintain and enhance backend modules for insurance policy systems, including issuance, endorsements, and transaction processing.
+• Analyze application logs and database states to diagnose production issues and perform root cause analysis.
+• Execute database corrections and validations to ensure data consistency across distributed systems.
+• Resolve defects in PDF policy document generation caused by inconsistencies in upstream data.
+• Collaborate with product, QA, and deployment teams to ensure smooth operation of integrated systems.
+
+Averoft, Bhopal, India
+Software Development Intern March 2022 – May 2022
+• Developed and maintained web application features using MVC architecture within an Agile development environment.
+• Fixed bugs and participated in code reviews under the guidance of senior developers.
+
+PROJECTS
+Enterprise Insurance Management System | Java | Spring Boot | MySQL | Microservices
+• Designed and developed backend microservices and REST APIs for a distributed insurance management platform.
+• Implemented structured logging, efficient SQL data models, and production-level debugging practices.
+
+AeroMail – Email Backend System | Java | Spring Boot | MySQL
+• Built a Gmail-like backend with lifecycle-based email states (DRAFT → PENDING → SENT/FAILED).
+• Implemented asynchronous email sending using Spring @Async for non-blocking processing.
+
+EDUCATION
+B.Tech – Computer Science Engineering (2021 – Present)
+Sagar Institute of Research and Technology, Bhopal | CGPA: 7.56
+
+Class XII – CBSE (2021) | 82%
+Graphite Higher Secondary School
+
+Class X – CBSE (2019) | 75.2%
+Graphite Higher Secondary School
+
+CERTIFICATIONS
+• AWS Certified Cloud Practitioner – Amazon Web Services (Apr 2026 – Apr 2029)
+• Java Full Stack with Angular – Cognizant Internal Training, cleared all assessments in a single attempt and awarded Green Tag distinction.
